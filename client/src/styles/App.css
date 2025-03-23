@@ -1,0 +1,62 @@
+/* Main app styles with space theme */
+:root {
+  --primary-color: #6f42c1;
+  --secondary-color: #17a2b8;
+  --background-dark: #0c0e1a;
+  --background-light: #131629;
+  --text-primary: #e9ecef;
+  --text-secondary: #adb5bd;
+  --accent-color: #f0134d;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  --space-gradient: linear-gradient(to right, #0c0e1a, #1a1b2e, #0c0e1a);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-dark);
+  color: var(--text-primary);
+  line-height: 1.6;
+  background-image: url('/images/stars-bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}/* filepath: client/src/styles/App.css */
+/* Main app styles with space theme */
+:root {
+  --primary-color: #6f42c1;
+  --secondary-color: #17a2b8;
+  --background-dark: #0c0e1a;
+  --background-light: #131629;
+  --text-primary: #e9ecef;
+  --text-secondary: #adb5bd;
+  --accent-color: #f0134d;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+  --danger-color: #dc3545;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+  --space-gradient: linear-gradient(to right, #0c0e1a, #1a1b2e, #0c0e1a);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-dark);
+  color: var(--text-primary);
+  line-height: 1.6;
+  background-image: url('/images/stars-bg.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
